@@ -1,0 +1,130 @@
+﻿body {
+    font-family: 'Raleway', sans-serif;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    margin-right: 10px;
+}
+
+#navigationBar {
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: palegreen;
+    opacity: 0.6;
+    height: 60px;
+    width: 100%;
+    font-size: 1.5em;
+    padding: 10px;
+    text-decoration-color: white;
+}
+
+  #navigationBar h1 {
+        float: left;
+        font-size: 2em;
+        color: darkgreen;
+    }
+
+        #navigationBar h1 a {
+            text-decoration: none;
+            font-size: 1em;
+        }
+
+    #navigationBar ul li {
+        display: inline-block;
+        list-style-type: none;
+        float: right;
+        padding-left: 10px;
+        margin-top: 10px;
+        margin-left: 7px;
+        color: aliceblue;
+    }
+
+        #navigationBar ul li a:hover {
+            background-color: lightgreen;
+            width: 90%;
+            padding: 4px;
+            height: 50px;
+            margin-top: -20px;
+            display: inline-block;
+        }
+
+#nav1 {
+    width: 100%;
+    height: 90px;
+    color: lightgoldenrodyellow;
+    font-size: 2em;
+    font-family: 'Comic Sans MS';
+    opacity: 5.4;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#nav11 {
+    margin-left: 45px;
+    color: lightgoldenrodyellow;
+}
+
+#nav22 {
+    color: white;
+    opacity: 4.4;
+    margin-left: -45px;
+    font-size: 1.25em;
+}
+
+#nav2 {
+    width: 28%;
+    color: darkgreen;
+    opacity: 0.9;
+    margin-left: 960px;
+    margin-top: 60px;
+    background-color: darkgrey;
+    padding: 10px;
+    height: 180px;
+    border: thick;
+    font-size: 1.08em;
+}
+
+.mytext {
+    width: 220px;
+    height: 20px;
+    color: slategray;
+}
+
+.mytext1 {
+    width: 220px;
+    height: 20px;
+    color: slategray;
+}
+
+.mytext2 {
+    background-color: silver;
+    display: inline-block;
+    padding: 3px;
+    text-align: left;
+    text-decoration-color: #926969;
+    margin: 3px 1.5px;
+    font-size: 1em;
+}
+
+.signup {
+    display: inline-block;
+    padding: 3px;
+    text-align: center;
+    text-decoration-color: #926969;
+    margin: 2px 1px;
+    font-size: 20px;
+    background-color: silver;
+}
+
+.userlogin {
+    display: inline-block;
+    padding: 3px;
+    text-align: center;
+    text-decoration-color: #926969;
+    margin: 2px 1px;
+    font-size: 20px;
+    background-color: silver;
+}
+
