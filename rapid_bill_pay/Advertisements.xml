@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Advertisements/Chase-Logo.png</ImageUrl>
+    <NavigateUrl>https://www.chase.com/</NavigateUrl>
+    <AlternateText>Chase</AlternateText>
+    <Impressions>7</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/Add2.png</ImageUrl>
+    <NavigateUrl>https://www.bankofamerica.com/</NavigateUrl>
+    <AlternateText>BoFA</AlternateText>
+    <Impressions>3</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/discover_logo.jpg</ImageUrl>
+    <NavigateUrl>https://www.discover.com/</NavigateUrl>
+    <AlternateText>Discover</AlternateText>
+    <Impressions>6</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/Add4.png</ImageUrl>
+    <NavigateUrl>https://www.americanexpress.com/</NavigateUrl>
+    <AlternateText>American Express</AlternateText>
+    <Impressions>4</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/SelfScore_Logo.jpg</ImageUrl>
+    <NavigateUrl>https://www.selfscore.com/</NavigateUrl>
+    <AlternateText>Selfscore</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/Add6.png</ImageUrl>
+    <NavigateUrl>https://www.wellsfargo.com/</NavigateUrl>
+    <AlternateText>Wells fargo</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/city_bank_logo.png</ImageUrl>
+    <NavigateUrl>https://online.citi.com/US/login.do</NavigateUrl>
+    <AlternateText>Citi</AlternateText>
+    <Impressions>3</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Advertisements/expresspay.jpg</ImageUrl>
+    <NavigateUrl>https://us.hsbc.com/</NavigateUrl>
+    <AlternateText>HSBC</AlternateText>
+    <Impressions>8</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Advertisements/Add9.png</ImageUrl>
+    <NavigateUrl>https://www.comerica.com/</NavigateUrl>
+    <AlternateText>Comercia</AlternateText>
+    <Impressions>8</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Advertisements/paypal2.png</ImageUrl>
+    <NavigateUrl>https://www.paypal.com/us/home</NavigateUrl>
+    <AlternateText>Paypal Bill Payment</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+</Advertisements>
